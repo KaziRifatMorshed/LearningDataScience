@@ -1,0 +1,11 @@
+[project]
+authors = ["Kazi Rifat Morshed <kazirifat03.krm@gmail.com>"]
+channels = ["https://conda.modular.com/max-nightly", "https://conda.modular.com/max", "https://repo.prefix.dev/modular-community", "conda-forge"]
+name = "LearningDataScience"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+ipykernel = ">=6.29.5,<7"

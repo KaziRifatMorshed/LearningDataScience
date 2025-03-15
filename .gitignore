@@ -1,2 +1,8 @@
 
 DataExplorationWithPandas/durjay-Data_Exploration_with_Pandas.ipynb
+
+# pixi environments
+.pixi
+*.egg-info
+# magic environments
+.magic

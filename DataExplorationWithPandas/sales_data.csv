@@ -1,4 +1,4 @@
-OrderDate,Region,Manager,SalesMan,Item,Units, Unit_price ,Sale_amt
+OrderDate,Region,Manager,SalesMan,Item,Units,Unit_price ,Sale_amt
 2018-01-06,East,Martha,Alexander,Television,95,1198.0,113810.0
 2018-01-23,Central,Hermann,Shelli,Home Theater,50,500.0,25000.0
 2018-02-09,Central,Hermann,Luis,Television,36,1198.0,43128.0
